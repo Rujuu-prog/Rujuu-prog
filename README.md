@@ -5,9 +5,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rujuu-prog&theme=tokyonight&show_icons=true&repo=react-todo" />
-</a>
+</a> -->
 
 <!--
 **Rujuu-prog/Rujuu-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
