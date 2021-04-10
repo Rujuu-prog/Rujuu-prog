@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rujuu-prog&repo=react-todo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rujuu-prog&theme=tokyonight&show_icons=true&repo=react-todo" />
 </a>
 
 <!--
