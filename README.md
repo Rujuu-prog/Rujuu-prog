@@ -1,3 +1,7 @@
+<a href="https://github.com/Rujuu-prog/Rujuu-prog/">
+    <img src="https://komarev.com/ghpvc/?username=Rujuu-prog" alt="Rujuu-prog" />
+ </a>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
