@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&layout=compact&count_private=true&theme=tokyonight&show_icons=true" />
   </a>
 </p>
 
