@@ -1,10 +1,12 @@
 ### Hi there 👋
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
+</p>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rujuu-prog&theme=tokyonight&show_icons=true&repo=react-todo" />
 </a> -->
