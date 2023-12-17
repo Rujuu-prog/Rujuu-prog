@@ -16,7 +16,7 @@
 <h3 align="center">🎮Languages and Tools🎮</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,github,git,docker,vercel,powershell,vscode,vite,py,ts,js,php,go,django,fastapi,nextjs,react,html,css,sass,md,styledcomponents,materialui,jquery,bootstrap,mysql,postgres,twitter,misskey,discord,pr,ai,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,github,git,docker,vercel,powershell,vscode,vite,py,ts,js,php,go,django,fastapi,nextjs,react,html,css,sass,md,styledcomponents,materialui,jquery,bootstrap,mysql,postgres,twitter,misskey,discord,pr,ai,ps,wordpress,laravel" />
   </a>
 </p>
 
