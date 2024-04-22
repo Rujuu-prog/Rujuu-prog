@@ -13,10 +13,22 @@
 
 <h1 align="center">Hi 👋, I'm Rujuu</h1>
 <h3 align="center">A Computer Engineer & Software Developer from Japan</h3>
-<h3 align="center">🎮Languages and Tools🎮</h3>
+<h3 align="center">📝Language & library📚</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bitbucket,github,githubactions,git,docker,kubernetes,vercel,powershell,vscode,idea,vite,py,ts,js,php,go,django,fastapi,nextjs,react,electron,html,css,sass,md,styledcomponents,materialui,jquery,bootstrap,mysql,postgres,twitter,misskey,discord,pr,ai,ps,notion,wordpress,laravel" />
+    <img src="https://skillicons.dev/icons?i=vite,py,ts,js,php,go,java,django,fastapi,nextjs,react,vue,electron,html,css,sass,md,styledcomponents,materialui,jquery,bootstrap,laravel" />
+  </a>
+</p>
+<h3 align="center">🧰Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bitbucket,github,githubactions,git,docker,kubernetes,vercel,powershell,vscode,idea,mysql,postgres,pr,ai,ps,notion,wordpress" />
+  </a>
+</p>
+<h3 align="center">📣SNS</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,misskey,discord" />
   </a>
 </p>
 
