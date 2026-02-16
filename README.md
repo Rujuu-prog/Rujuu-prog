@@ -3,12 +3,10 @@
  </a>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujuu-prog&layout=compact&count_private=true&theme=tokyonight&show_icons=true" />
-  </a>
+  <img height="150px"
+    src="https://github-stats-extended-frontend-lsuv0ozuu-my-team-4df26619.vercel.app/api?username=Rujuu-prog&count_private=true&theme=tokyonight&show_icons=true" />
+  <img height="150px"
+    src="https://github-stats-extended-frontend-lsuv0ozuu-my-team-4df26619.vercel.app/api/top-langs/?username=Rujuu-prog&layout=compact&count_private=true&theme=tokyonight&show_icons=true" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rujuu</h1>
