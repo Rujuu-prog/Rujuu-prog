@@ -1,0 +1,45 @@
+name: generate gravity-lens
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gravity-lens
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate (dark)
+        uses: Rujuu-prog/github-contribution-gravity-lens@v1.0.0
+        with:
+          github-token: ${{ github.token }}
+          theme: deep-space
+          output-path: dist/gravity-lens-dark.svg
+
+      - name: Generate (light)
+        uses: Rujuu-prog/github-contribution-gravity-lens@v1.0.0
+        with:
+          github-token: ${{ github.token }}
+          theme: monochrome
+          output-path: dist/gravity-lens.svg
+
+      - name: Deploy to output_gravity_lens branch
+        uses: crazy-max/ghaction-github-pages@v3.2.0
+        with:
+          target_branch: output_gravity_lens
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
