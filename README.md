@@ -36,10 +36,4 @@
   <img alt="GitHub Contribution Gravity Lens" src="https://raw.githubusercontent.com/Rujuu-prog/Rujuu-prog/output_gravity_lens/gravity-lens.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rujuu-prog/Rujuu-prog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rujuu-prog/Rujuu-prog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rujuu-prog/Rujuu-prog/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center"><a href="https://honzaap.github.io/GithubCity/?name=Rujuu-prog&year=2022">🏙Github City🏙</a></p>
